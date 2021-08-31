@@ -16,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/persistence/src/main/java/zw/co/murambindahub" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/persistence/src/main/java/zw/co/murambindahub" />
   </component>
   <component name="MavenImportPreferences">
@@ -78,12 +83,24 @@
       <workItem from="1598863944119" duration="15000" />
       <workItem from="1611265935809" duration="18000" />
       <workItem from="1630043318809" duration="3041000" />
-      <workItem from="1630350050893" duration="2454000" />
+      <workItem from="1630350050893" duration="3117000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/tonderaimuchada/murambinda-hub into main&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <created>1630380088117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630380088117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/tonderaimuchada/murambinda-hub into main&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/tonderaimuchada/murambinda-hub into main&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
   </component>
   <component name="WindowStateProjectService">
     <state x="127" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630045648802">
@@ -122,5 +139,9 @@
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="320" y="145" key="Vcs.Push.Dialog.v2/0.25.1440.790@0.25.1440.790" timestamp="1630380089736" />
+    <state x="248" y="215" key="git4idea.merge.GitPullDialog" timestamp="1630380676623">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="248" y="215" key="git4idea.merge.GitPullDialog/0.25.1440.790@0.25.1440.790" timestamp="1630380676623" />
   </component>
 </project>
