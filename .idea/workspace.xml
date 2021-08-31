@@ -21,7 +21,7 @@
         <entry key="$PROJECT_DIR$/persistence/src/main/java/zw/co/murambindahub" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/persistence/src/main/java/zw/co/murambindahub" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -139,6 +139,10 @@
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="320" y="145" key="Vcs.Push.Dialog.v2/0.25.1440.790@0.25.1440.790" timestamp="1630380089736" />
+    <state x="383" y="170" width="674" height="486" key="find.popup" timestamp="1630381565707">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="383" y="170" width="674" height="486" key="find.popup/0.25.1440.790@0.25.1440.790" timestamp="1630381565707" />
     <state x="248" y="215" key="git4idea.merge.GitPullDialog" timestamp="1630380676623">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
