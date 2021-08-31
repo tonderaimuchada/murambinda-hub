@@ -19,11 +19,5 @@ S
 service/pom.xml,a/1/a1f4042fbcf78e2ab86d486176a2378cd0a26e9a
 C
 persistence/pom.xml,a/9/a98ee1b197e3476176e8aa1ed848e04b3ed3303b
-t
-Dpersistence/src/main/java/zw/co/murambindahub/ServiceRepository.java,5/9/59d95c248d9c794da336d6e47be175a558898448
-x
-Hpersistence/src/main/java/zw/co/murambindahub/SubCategoryRepository.java,6/7/67308f60a6c47c0c3ab8048078a6ea9f0396ffc8
-u
-Epersistence/src/main/java/zw/co/murambindahub/CategoryRepository.java,a/b/abe84ac70e3ae33fc0a9e9755c4af06b933fe13b
 a
 1domain/src/main/java/subcategory/SubCategory.java,5/7/570af8345b99b6fbc38e36337d91b40844cd90f8
